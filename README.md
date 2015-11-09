@@ -1,2 +1,5 @@
-These are my implemented projects for An Introduction to Interactive Programming in Python coursera online course made 
+These are my implemented Mini-projects for An Introduction to Interactive Programming in Python (Coursera online course) made 
 by Joe Warren, Scott Rixner, John Greiner and Stephen Wong.
+
+https://www.coursera.org/course/interactivepython1
+https://www.coursera.org/course/interactivepython2
