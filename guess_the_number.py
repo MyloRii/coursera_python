@@ -1,7 +1,6 @@
-# Mini-project "Guess the number"
-# 'Introduction to Interactive Programming in Python' Course at coursera.org
-# by Joe Warren, John Greiner, Stephen Wong, Scott Rixner
-# Made by Andrii Shumylo 2015 (c)
+# Mini-project "Guess the number" for
+# 'Introduction to Interactive Programming in Python' course at coursera.org
+#  made by Joe Warren, John Greiner, Stephen Wong, Scott Rixner
 
 # input will come from buttons and an input field
 # all output for the game will be printed in the console
@@ -73,3 +72,5 @@ frame.start()
 
 # call new_game 
 new_game()
+
+# Andrii Shumylo 2015 (c)
