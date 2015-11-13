@@ -1,7 +1,6 @@
-# Mini-project Rock-paper-scissors-lizard-Spock
-# 'Introduction to Interactive Programming in Python' Course at coursera.org
-# by Joe Warren, John Greiner, Stephen Wong, Scott Rixner
-# Made by Andrii Shumylo 2015 (c)
+# Mini-project "Rock-paper-scossors-lizard-spock" for
+# 'Introduction to Interactive Programming in Python' course at coursera.org
+#  made by Joe Warren, John Greiner, Stephen Wong, Scott Rixner
 
 # The key idea of this program is to equate the strings
 # "rock", "paper", "scissors", "lizard", "Spock" to numbers
@@ -92,3 +91,5 @@ rpsls("Spock")
 rpsls("paper")
 rpsls("lizard")
 rpsls("scissors")
+
+# Andrii Shumylo 2015 (c)
